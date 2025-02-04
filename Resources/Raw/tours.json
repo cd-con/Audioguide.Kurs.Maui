@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "City Tour",
+    "Duration": "2 hours",
+    "PreviewImage": "Resources/Images/city_tour_preview.jpg",
+    "MapImage": "Resources/Images/city_tour_map.jpg",
+    "AudioFile": "Resources/Raw/city_tour_audio.mp3"
+  },
+  {
+    "Name": "Museum Walk",
+    "Duration": "1.5 hours",
+    "PreviewImage": "dotnet_bot.png",
+    "MapImage": "dotnet_bot.png",
+    "AudioFile": "test.mp3"
+  }
+]
